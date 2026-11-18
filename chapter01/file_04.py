@@ -1,0 +1,4 @@
+""" 常量 """
+ADULT_AGE = 18
+MONTH_IN_YEAR = 12
+PASSING_SCORE = 60
